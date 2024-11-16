@@ -40,7 +40,7 @@ nav {
   display: flex;
   gap: 30px;
 }
-.main-nav-links-container a {
+.main-nav-links-container > a {
   text-decoration: none;
   color: #fff;
 }
@@ -60,7 +60,7 @@ main {
   bottom: 0;
 }
 
-.person-container img {
+.person-container > img {
   height: 700px;
 }
 
